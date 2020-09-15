@@ -28,7 +28,7 @@ To begin, use Python and SQLAlchemy to do basic climate analysis and data explor
 
 * Plot the results using the DataFrame `plot` method.
 
-  ![precipitation](Images/ML_Precip.png)
+  ![precipitation](Images/ML_Precip.PNG)
 
 * Use Pandas to print the summary statistics for the precipitation data.
 
@@ -50,7 +50,7 @@ To begin, use Python and SQLAlchemy to do basic climate analysis and data explor
 
   * Plot the results as a histogram with `bins=12`.
 
-    ![station-histogram](Images/ML_Temp.png)
+    ![station-histogram](Images/ML_Temp.PNG)
 
 - - -
 
@@ -125,7 +125,7 @@ Now that you have completed your initial analysis, design a Flask API based on t
 
   * Use the peak-to-peak (TMAX-TMIN) value as the y error bar (YERR).
 
-    ![temperature](Images/ML_Temp_vacation.png)
+    ![temperature](Images/ML_Temp_vacation.PNG)
 
 ### Daily Rainfall Average
 
@@ -141,6 +141,6 @@ Now that you have completed your initial analysis, design a Flask API based on t
 
 * Use Pandas to plot an area plot (`stacked=False`) for the daily normals.
 
-  ![daily-normals](Images/ML_TempNormal_vacation.png)
+  ![daily-normals](Images/ML_TempNormal_vacation.PNG)
 
 
